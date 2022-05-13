@@ -1,0 +1,39 @@
+body{background-color: #C3B299;
+padding: 150px;
+}
+
+h1 {
+	color: C3B299;
+	text-align: center;
+}
+
+img{
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+.big-size{
+	width: 800px;
+	height: 800px;
+	object-fit: cover;
+
+
+}
+.small-size {
+width: 300px;
+height: 300px;
+object-fit: cover;
+}
+
+.elements-center{
+text-align: center;
+}
+
+div {
+background-color: #ffffff;
+padding-right: 50px;
+padding-left: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border: 5px solid black;
+}
